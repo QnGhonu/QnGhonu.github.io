@@ -1,6 +1,6 @@
 # Site settings
-title: QnGhonu | Blog
-SEOTitle: QnGhonu的博客 | Home
+title: QnGhonu Blog
+SEOTitle: QnGhonu | Station
 header-img: img/home-bg.jpg
 email: qnghonu@qq.com
 description: "这里是 @QnGhonu 的个人博客，与你一起发现更大的世界 | 要做一个有梦想的程序员"
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: QnGhonu
-zhihu_username: QnGhonu
+#weibo_username: QnGhonu
+#zhihu_username: QnGhonu
 github_username: QnGhonu
 twitter_username: QnGhonu
-#facebook_username:  QnGhonu
+facebook_username:  QnGhonu
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
