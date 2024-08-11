@@ -12,6 +12,8 @@ Mail: *QnGhonu@qq.com*
 
 QQ : *欸嘿，不知道*
 
+洛谷: *QnGhonu*
+
 ## 我的开源项目地址：
 
 这个博客： <https://github.com/QnGhonu/QnGhonu.github.io>
